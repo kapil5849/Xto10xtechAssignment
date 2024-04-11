@@ -1,0 +1,10 @@
+.search__input {
+    width: 300px;
+    padding: 10px 20px;
+    border-color: black;
+    border-radius: 0.5rem;
+}
+
+.search__input:focus {
+    outline: black;
+}
